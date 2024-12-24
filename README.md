@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kelvin O. Ifeanyi</h1>
+<h1 align="center">Hello there! Kelvin Ifeanyi here.</h1>
 <h3 align="center">Slave NDA-Bound Experienced Software Engineer...Now Free!</h3>
 <h4 align="center">Don't judge my experience by my GITHUB Profile or Repos. There's a V16 cerebral cortex that produces 5,007 brainpower under the hood!</h4>
 
